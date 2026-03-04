@@ -1,1 +1,28 @@
+=== TEAM ONBOARDING COMPLETE ===
 
+Hostname: waad
+Date: $(date)
+
+Users Created:
+- hammam
+- muath
+- saad
+- maitha
+- renad
+
+Groups Created:
+- developers
+- sysadmins
+- deployers
+
+Security Configuration:
+- Individual user accounts configured
+- Users assigned to role-based groups
+- Sysadmin granted full sudo access
+- Deployer granted scoped sudo privileges
+- Developers have no sudo access
+- SSH configured with key authentication
+- Root login disabled
+- Server hardened following least privilege principle
+
+Verification Completed Successfully.
